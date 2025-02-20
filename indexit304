@@ -1,0 +1,24 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Me</title>
+</head>
+<body>
+    <h1>About Me</h1>
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <td>Amber Carranza</td>
+        </tr>
+        <tr>
+            <th>Introduction</th>
+            <td>Hello, I am a junior in the BS IT program. I enjoy shopping.</td>
+        </tr>
+        <tr>
+            <th>Hobbies</th>
+            <td>Shopping, Exercise</td>
+        </tr>
+    </table>
+</body>
+</html>
